@@ -7,4 +7,4 @@ En este trabajo practico deben:
 - El commit debe tener el siguiente formato:
         "#<dni> - <Apellido> - <Palabra clave>
 
-        
+la palabra de esta semana es: ""
